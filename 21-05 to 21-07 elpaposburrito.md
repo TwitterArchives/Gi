@@ -1,6 +1,6 @@
 ## Archived tweets for elpaposburrito
 ### Content warning: racism and antisemitism
-More information: https://github.com/TwitterArchives/KYE#readme
+
 
 The list below includes 1117 archived tweets by
 [elpaposburrito](https://twitter.com/elpaposburrito).
